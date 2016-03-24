@@ -1,0 +1,3 @@
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintSequence\obj\Debug\9.PrintSequence.csprojResolveAssemblyReference.cache
