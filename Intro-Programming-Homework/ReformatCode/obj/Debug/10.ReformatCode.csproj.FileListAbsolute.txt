@@ -1,0 +1,9 @@
+D:\SoftUni\Workspace\Intro-Programing-Homework\ReformatCode\bin\Debug\ReformatCode.exe.config
+D:\SoftUni\Workspace\Intro-Programing-Homework\ReformatCode\bin\Debug\ReformatCode.exe
+D:\SoftUni\Workspace\Intro-Programing-Homework\ReformatCode\bin\Debug\ReformatCode.pdb
+D:\SoftUni\Workspace\Intro-Programing-Homework\ReformatCode\obj\Debug\10.ReformatCode.csprojResolveAssemblyReference.cache
+D:\SoftUni\Workspace\Intro-Programing-Homework\ReformatCode\obj\Debug\ReformatCode.exe
+D:\SoftUni\Workspace\Intro-Programing-Homework\ReformatCode\obj\Debug\ReformatCode.pdb
+D:\SoftUni\Workspace\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe.config
+D:\SoftUni\Workspace\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.exe
+D:\SoftUni\Workspace\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.pdb
