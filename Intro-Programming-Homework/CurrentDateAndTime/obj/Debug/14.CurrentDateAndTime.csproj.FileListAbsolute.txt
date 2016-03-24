@@ -1,0 +1,9 @@
+D:\SoftUni\Workspace\Intro-Programing-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+D:\SoftUni\Workspace\Intro-Programing-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+D:\SoftUni\Workspace\Intro-Programing-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+D:\SoftUni\Workspace\Intro-Programing-Homework\CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.csprojResolveAssemblyReference.cache
+D:\SoftUni\Workspace\Intro-Programing-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+D:\SoftUni\Workspace\Intro-Programing-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
+D:\SoftUni\Workspace\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+D:\SoftUni\Workspace\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+D:\SoftUni\Workspace\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb
+D:\SoftUni\Workspace\Intro-Programing-Homework\PrintFirstAndLastName\obj\Debug\7.PrintFirstAndLastName.csprojResolveAssemblyReference.cache

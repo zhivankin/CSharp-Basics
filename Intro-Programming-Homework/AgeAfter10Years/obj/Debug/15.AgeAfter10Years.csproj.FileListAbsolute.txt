@@ -1,0 +1,12 @@
+D:\SoftUni\Workspace\Intro-Programing-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+D:\SoftUni\Workspace\Intro-Programing-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+D:\SoftUni\Workspace\Intro-Programing-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+D:\SoftUni\Workspace\Intro-Programing-Homework\AgeAfter10Years\obj\Debug\15.AgeAfter10Years.csprojResolveAssemblyReference.cache
+D:\SoftUni\Workspace\Intro-Programing-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+D:\SoftUni\Workspace\Intro-Programing-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
+D:\SoftUni\Workspace\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+D:\SoftUni\Workspace\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+D:\SoftUni\Workspace\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
+D:\SoftUni\Workspace\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+D:\SoftUni\Workspace\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+D:\SoftUni\Workspace\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\15.AgeAfter10Years.csprojResolveAssemblyReference.cache
